@@ -5,7 +5,7 @@ It creates a fresh copy of each Blend Tree instead of creating only copy of refe
 
 
 # How to use
-Download this C# code file and put it in the Editor directory, somewhere in your project. Allow Unity to recompile your solution.
+Download DuplicateMecanimLayerEditorExt.cs C# code file and put it in the Editor directory, somewhere in your project. Allow Unity to recompile your solution.
 
 In the menu bar of Unity Editor select Tools > Mecanim Layer Duplicator. You get a pop-up window with all AnimatorControllers listed on the left.
 
