@@ -1,7 +1,7 @@
 # UnityDuplicateMecanimLayer
 Editor tool for Unity to quickly duplicate Mecanim Animator layers with all transitions and states intact.
 
-It creates a fresh copy of each Blend Tree instead of creating only copy of reference to the existing ones.
+It not only copies scripts (StateMachine Behaviours) instances attached to states, but also creates a copy of each Blend Tree that layer uses instead of only copying a reference to them.
 
 
 # How to use
